@@ -2,4 +2,4 @@
 
 ## Result here:
 
-[Berserk] (https://nevermind52.github.io/Berserk/)
+[Berserk](https://nevermind52.github.io/Berserk/)
